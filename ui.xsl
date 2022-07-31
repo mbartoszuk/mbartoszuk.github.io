@@ -6,7 +6,7 @@
 <xsl:template match="/">
   <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"/>
     <title><xsl:value-of select="title"/></title>
   </head>
   <body>
