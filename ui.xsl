@@ -4,7 +4,6 @@
 <xsl:output method="html"/>
 
 <xsl:template match="/">
-  <xsl:text disable-output-escaping="yes"><!DOCTYPE html></xsl:text>
   <html lang="en">
   <head>
     <meta charset="utf-8">
